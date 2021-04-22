@@ -1,0 +1,110 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    display: block;
+    margin-bottom: 20px;
+}
+form{
+    display: inline-block;
+}
+#register{
+    display: inline-block;
+    margin: 30px 0 0 100px;
+}
+#register input{
+    height:30px;
+    width: 200px;
+    float: right;
+    margin:20px 0 0 50px;
+}
+#register label{
+    float:left;
+    clear: right;
+    margin-top: 20px;
+}
+#register button{
+    margin:20px 0 0 300px;
+}
+
+#logIn{
+    display: inline-block;
+    margin: 100px 0 50px 100px;
+    vertical-align: top;
+}
+#logIn input{
+    height:30px;
+    width: 200px;
+    float:right;
+    margin:20px 0 0 50px;
+
+}
+#logIn label{
+    float:left;
+    clear: right;
+    margin-top:20px;
+}
+#logIn button{
+    margin:20px 0 0 300px;
+}
+#hello h1{
+    margin:20px 0 0 10px;
+    display: inline-block;
+}
+#hello a{
+    float: right;
+    margin: 20px 20px 0 20px;
+
+}
+a.btn.btn-secondary{
+    margin:10px 20px 0 20px;
+
+}
+#view{
+    margin:20px 0 0 30px;
+}
+#view h1{
+    display: inline-block;
+}
+#view a{
+    float:right;
+    margin-right: 30px;
+}
+#view h3{
+    margin-top: 15px;
+}
+#view h4{
+    margin:15px 0 0 20px;
+}
+#add h1{
+    margin:20px 0 0 20px;
+    display: inline-block;
+}
+#add a{
+    margin-left: 700px;
+}
+#edit{
+    margin:20px 0 0 50px;
+}
+#edit label{
+    float:left;
+    clear:left;
+    margin-top: 20px;
+}
+#edit input{
+    margin-top: 15px;
+    float:right;
+    height:30px;
+    width:200px;
+}
+#edit textarea{
+    height:100px;
+    width:350px;
+}
+#edit a{
+    margin:10px 0 0 185px;
+}
+#edit button{
+    margin:10px 0 0 10px;
+}
